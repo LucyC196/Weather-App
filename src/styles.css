@@ -1,3 +1,7 @@
 h1 {
   color: blue;
 }
+
+small {
+  font-style: italic;
+}
