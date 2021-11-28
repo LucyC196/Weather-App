@@ -1,13 +1,13 @@
+body {
+  margin: auto 0;
+  border-width: 2px;
+  border-color: skyblue;
+}
+
 h1 {
   color: blue;
 }
 
 small {
   font-style: italic;
-}
-
-.container {
-  margin: auto 0;
-  border-width: 2px;
-  border-color: skyblue;
 }
