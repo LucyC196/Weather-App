@@ -5,3 +5,9 @@ h1 {
 small {
   font-style: italic;
 }
+
+.container {
+  margin: auto 0;
+  border-width: 2px;
+  border-color: skyblue;
+}
